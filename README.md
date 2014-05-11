@@ -19,7 +19,7 @@ API Endpoint
 Headers
 
 
-| | |
+| Name | Value |
 | ------------- | ------------- |
 | Content-Type  | application/json  |
 | Content-Type  | text/html  |
