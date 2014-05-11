@@ -17,9 +17,12 @@ API Endpoint
 127.0.0.1:8000/api/snippets/
 
 Headers
-| Key | Value |
-| ------------ | ---------------- |
-| content-type | application/json |
+
+| Header  | Description |
+| ------------- | ------------- |
+| Content-Type  | application/json  |
+| Content-Type  | text/html  |
+
 
 Usage
 -----
