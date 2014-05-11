@@ -113,6 +113,7 @@ Allow: POST, OPTIONS, GET
         "style": "friendly"
     }
 ]
+```
 
 Add Snippet
 -----------
