@@ -142,16 +142,16 @@ Sample Request JSON
 --------------------
 
 ```JSON
-[ 
-    {
-        "pk": 3, 
-        "title": "Even more Epic Python", 
-        "code": "oh boy you are in for it now", 
-        "linenos": false, 
-        "language": "python", 
-        "style": "friendly"
-    }
-]
+
+{
+    "pk": 3, 
+    "title": "Even more Epic Python", 
+    "code": "oh boy you are in for it now", 
+    "linenos": false, 
+    "language": "python", 
+    "style": "friendly"
+}
+
 ```
 
 Sample Response JSON
