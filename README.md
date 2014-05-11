@@ -19,8 +19,9 @@ API Endpoint
 Headers
 
 
-| Content-Type  | application/json  |
+| | |
 | ------------- | ------------- |
+| Content-Type  | application/json  |
 | Content-Type  | text/html  |
 
 
