@@ -17,6 +17,8 @@ API Endpoint
 127.0.0.1:8000/api/snippets/
 
 Headers
+| Key | Value |
+| ------------ | ---------------- |
 | content-type | application/json |
 
 Usage
@@ -33,11 +35,12 @@ Get All Snippets
 
 Sample Response JSON
 --------------------
-```
 HTTP 200 OK
 Content-Type: application/json
 Vary: Accept
 Allow: POST, OPTIONS, GET
+
+```JSON
 
 [
     {
